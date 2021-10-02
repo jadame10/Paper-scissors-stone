@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/Paper-scissors-stone/static/css/main.94af57d5.chunk.css",
-    "main.js": "/Paper-scissors-stone/static/js/main.34bea16f.chunk.js",
-    "main.js.map": "/Paper-scissors-stone/static/js/main.34bea16f.chunk.js.map",
+    "main.js": "/Paper-scissors-stone/static/js/main.e4e69780.chunk.js",
+    "main.js.map": "/Paper-scissors-stone/static/js/main.e4e69780.chunk.js.map",
     "runtime-main.js": "/Paper-scissors-stone/static/js/runtime-main.0c2d04e2.js",
     "runtime-main.js.map": "/Paper-scissors-stone/static/js/runtime-main.0c2d04e2.js.map",
     "static/css/2.c1256375.chunk.css": "/Paper-scissors-stone/static/css/2.c1256375.chunk.css",
-    "static/js/2.b2f01045.chunk.js": "/Paper-scissors-stone/static/js/2.b2f01045.chunk.js",
-    "static/js/2.b2f01045.chunk.js.map": "/Paper-scissors-stone/static/js/2.b2f01045.chunk.js.map",
+    "static/js/2.fcb12e6d.chunk.js": "/Paper-scissors-stone/static/js/2.fcb12e6d.chunk.js",
+    "static/js/2.fcb12e6d.chunk.js.map": "/Paper-scissors-stone/static/js/2.fcb12e6d.chunk.js.map",
     "static/js/3.52e6a954.chunk.js": "/Paper-scissors-stone/static/js/3.52e6a954.chunk.js",
     "static/js/3.52e6a954.chunk.js.map": "/Paper-scissors-stone/static/js/3.52e6a954.chunk.js.map",
     "index.html": "/Paper-scissors-stone/index.html",
     "static/css/2.c1256375.chunk.css.map": "/Paper-scissors-stone/static/css/2.c1256375.chunk.css.map",
     "static/css/main.94af57d5.chunk.css.map": "/Paper-scissors-stone/static/css/main.94af57d5.chunk.css.map",
-    "static/js/2.b2f01045.chunk.js.LICENSE.txt": "/Paper-scissors-stone/static/js/2.b2f01045.chunk.js.LICENSE.txt"
+    "static/js/2.fcb12e6d.chunk.js.LICENSE.txt": "/Paper-scissors-stone/static/js/2.fcb12e6d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0c2d04e2.js",
     "static/css/2.c1256375.chunk.css",
-    "static/js/2.b2f01045.chunk.js",
+    "static/js/2.fcb12e6d.chunk.js",
     "static/css/main.94af57d5.chunk.css",
-    "static/js/main.34bea16f.chunk.js"
+    "static/js/main.e4e69780.chunk.js"
   ]
 }
